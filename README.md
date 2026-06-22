@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hey, I'm Harsh 👋
+🚀 Computer Science Engineering Student
 
-<!--
-**Harshinipriyaa-dev/Harshinipriyaa-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My little corner of the internet 🌌
 
-Here are some ideas to get you started:
+Where ideas turn into code,
+and small steps turn into big dreams ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Usually found with:
+
+☕ Coffee in hand  
+🎧 Music on  
+💻 Code running  
+🌙 Late night creations
+
+Building my skills, one commit at a time 🚀
+## Let's Connect
+<a href="www.linkedin.com/in/harshinipriyaa-s-v-26a405399">
+</a>
+
+
+
+
+
+
+
+
+
